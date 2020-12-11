@@ -1,0 +1,2 @@
+# Data
+This directory should contain your data files. Keep a good record of which files pertain to what data. A good practice is to keep a log indicating content (column names), updates, and other changes. Feel free to use this file to keep track of those changes. Be sure to include the date you update or create new data files.
